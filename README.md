@@ -1,2 +1,2 @@
-# itcho.github.com
+# itcho.github.io
 welcome to itcho's homepage
